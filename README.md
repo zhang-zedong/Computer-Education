@@ -9,7 +9,7 @@
 - 如何使用键盘
   - 盲打
   - 快捷键（on windows）
-    - [可怕也学不会的大全百科](https://baike.baidu.com/item/Windows快捷键大全/407192?fromtitle=Windows快捷键&fromid=948037)
+    - [学不会的大全百科](https://baike.baidu.com/item/Windows快捷键大全/407192?fromtitle=Windows快捷键&fromid=948037)
     - [好教程的示范WikiHow](https://zh.wikihow.com/掌握Windows中的常用快捷键组合)
     - [windows 10 下快捷键提醒工具](https://www.veodin.com/keyrocket/)
 - 如何使用此编辑器
@@ -27,3 +27,4 @@
   - 8G内存
   - 固态硬盘，就是小还贵的那种
   - 当前，需要买第七代的CPU
+
