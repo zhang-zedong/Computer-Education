@@ -6,6 +6,7 @@
   - 极度牛的关键字
     - cheat sheet
     - tutorial
+    - awesome
 - 如何使用键盘
   - 盲打
   - 快捷键（on windows）
